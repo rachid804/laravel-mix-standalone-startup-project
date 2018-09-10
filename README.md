@@ -1,0 +1,1 @@
+# laravel mix standalone startup project
